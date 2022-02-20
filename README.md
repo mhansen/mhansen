@@ -15,3 +15,5 @@
 My main website is https://markhansen.co.nz
 
 [Follow me on twitter: @MarkHnsn](https://twitter.com/markhnsn).
+
+Most of my open source contributions are on [my GitLab account](https://gitlab.com/markhnsn).
