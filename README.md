@@ -14,6 +14,6 @@
 
 My main website is https://markhansen.co.nz
 
-[Follow me on twitter: @MarkHnsn](https://twitter.com/markhnsn).
+[Follow me on twitter: @MarkHnsn](https://twitter.com/markhnsn). Or <a rel="me" href="https://hachyderm.io/@markhansen">Mastodon</a>.
 
 Most of my open source contributions are on [my GitLab account](https://gitlab.com/markhnsn).
